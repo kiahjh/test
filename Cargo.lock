@@ -822,9 +822,9 @@ dependencies = [
 
 [[package]]
 name = "rejoice"
-version = "0.12.3"
+version = "0.12.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "c3d9905bc8433567b046d9356f77866f4ac23f31dc43d9dd46bd36341281515d"
+checksum = "d6148b3a4c603dbe735a80ab7ca27182418d8a408b185a9306fb6410cb80d525"
 dependencies = [
  "axum",
  "clap",
