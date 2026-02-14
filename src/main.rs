@@ -1,4 +1,6 @@
 // important comment
+//
+// another really important comment
 
 use rejoice::App;
 
